@@ -52,11 +52,11 @@ This real-time facial emotion recognition web application combines the capabilit
 
 ## Screenshots
 
-![App Screenshot1](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot1](images/sample.jpg)
 
-![App Screenshot1](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot1](images/sample_1.jpg)
 
-![App Screenshot1](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot1](images/sample_2.jpg)
 
 
 
